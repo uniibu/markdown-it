@@ -7,6 +7,8 @@
 
 > Markdown parser done right. Fast and easy to extend.
 
+NOTE: This is not intended for public use as it is missing `__` and `_` emphasis
+
 __[Live demo](https://markdown-it.github.io)__
 
 - Follows the __[CommonMark spec](http://spec.commonmark.org/)__ + adds syntax extensions & sugar (URL autolinking, typographer).
