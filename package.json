@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "ansi": "^0.3.0",
-    "autoprefixer-stylus": "^0.14.0",
+    "autoprefixer-stylus": "^1.0.0",
     "benchmark": "~2.1.0",
     "browserify": "^16.3.0",
     "chai": "^4.2.0",
