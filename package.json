@@ -48,7 +48,7 @@
     "coveralls": "^3.0.4",
     "eslint": "^7.0.0",
     "express": "^4.14.0",
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^3.0.0",
     "highlight.js": "^10.0.3",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-container": "^2.0.0",
