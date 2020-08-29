@@ -33,7 +33,7 @@
     "dist/"
   ],
   "dependencies": {
-    "argparse": "^1.0.7",
+    "argparse": "^2.0.1",
     "entities": "~2.0.0",
     "linkify-it": "^3.0.1",
     "mdurl": "^1.0.1",
