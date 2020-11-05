@@ -76,7 +76,7 @@
     "rollup-plugin-terser": "^7.0.2",
     "shelljs": "^0.8.4",
     "stylus": "^0.54.5",
-    "supertest": "^5.0.0"
+    "supertest": "^6.0.1"
   },
   "mocha": {
     "inline-diffs": true,
